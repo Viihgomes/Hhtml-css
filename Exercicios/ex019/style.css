@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgba(155, 74, 20, 0.904);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h1{
+    color:rgb(197, 127, 77);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgba(126, 45, 45, 0.781);;
+}
+
+h1#principal{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: rgb(197, 127, 77);
+    background-color: rgba(126, 45, 45, 0.781);
+
+}
+
+h2{
+    color: rgba(83, 35, 35, 0.925);
+}
