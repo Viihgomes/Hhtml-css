@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+@media screen and(min-width:768px){
+    span#hambuguer{
+        display: none;
+
+    }
+    menu#itens{display: block;}
+}
+
+
